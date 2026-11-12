@@ -10,7 +10,7 @@
 📄 **Résumé:** [web](https://shivanesun.github.io/resume/resume/) · [PDF](https://shivanesun.github.io/resume/resume/Sivanesan_Selvaraj_Resume.pdf)
 💼 **LinkedIn:** [linkedin.com/in/shivanesun](https://www.linkedin.com/in/shivanesun/)
 
-#### 🎮 Strategy games
+#### 🎮 Experience the feel of my work via Strategy games
 
 [Judge the Game](https://shivanesun.github.io/resume/judge-the-game/) ·
 [One More Lane](https://shivanesun.github.io/resume/one-more-lane/) ·
